@@ -1,0 +1,9 @@
+{
+    "symbol": "NVC",
+    "name": "Novocoin",
+    "decimals": 18,
+    "address": "0x6716907d9072D2019128839Affc030C98E83B8C9",
+    "logo": "https://ibb.co/stFv8dW",
+    "type": "BEP20",
+    "chain": "binance-smart-chain"
+}
